@@ -13,9 +13,12 @@ export default function D1() {
         <li>
           C
         </li>
-       
+        
         <li>
           D
+        </li>
+        <li>
+          New
         </li>
       </ol>
     </div>
