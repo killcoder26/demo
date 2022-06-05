@@ -13,12 +13,7 @@ export default function D1() {
         <li>
           C
         </li>
-        <li>
-            xyz 
-        </li>
-        <li>
-            pqr
-        </li>
+       
         <li>
           D
         </li>
