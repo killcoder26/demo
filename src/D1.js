@@ -7,12 +7,7 @@ export default function D1() {
         <li>
           A
         </li>
-        <li>
-          B
-        </li>
-        <li>
-          C
-        </li>
+        
         
         <li>
           D
