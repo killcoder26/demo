@@ -16,6 +16,9 @@ export default function D1() {
         <li>
           New
         </li>
+        <li>
+          New2
+        </li>
       </ol>
     </div>
   )
