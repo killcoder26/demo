@@ -3,16 +3,15 @@ import React from 'react'
 export default function D1() {
   return (
     <div>D1
-
-
+      <ol>
         <li>
-            A
+          A
         </li>
         <li>
-            B
+          B
         </li>
         <li>
-            C
+          C
         </li>
         <li>
             xyz 
@@ -20,6 +19,10 @@ export default function D1() {
         <li>
             pqr
         </li>
+        
+          D
+        </li>
+      </ol>
     </div>
   )
 }
