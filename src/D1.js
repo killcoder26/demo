@@ -4,9 +4,7 @@ export default function D1() {
   return (
     <div>D1
       <ol>
-        <li>
-          A
-        </li>
+       
         <li>
           X
         </li>
