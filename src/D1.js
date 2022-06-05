@@ -14,6 +14,9 @@ export default function D1() {
           D
         </li>
         <li>
+          Z
+        </li>
+        <li>
           New
         </li>
         <li>
