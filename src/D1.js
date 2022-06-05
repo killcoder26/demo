@@ -14,13 +14,16 @@ export default function D1() {
           C
         </li>
         <li>
-            xyz 
+          xyz
         </li>
         <li>
-            pqr
+          pqr
         </li>
         <li>
           D
+        </li>
+        <li>
+          New
         </li>
       </ol>
     </div>
